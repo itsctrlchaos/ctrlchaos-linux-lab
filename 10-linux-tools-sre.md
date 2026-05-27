@@ -391,13 +391,3 @@ sudo dpkg -i duf_0.8.1_linux_amd64.deb
 ```
 
 ---
-
-## Closing Script
-
-These are ten Linux tools that I genuinely use on a regular basis as an SRE. None of these tools are gimmicks. They help me troubleshoot faster, navigate systems more efficiently, and spend less time fighting with the terminal.
-
-If you have not tried some of these yet, I highly recommend giving them a shot. You might be surprised how quickly they become part of your daily workflow.
-
-Also, I would love to hear from you. If there is a Linux tool you use every day that was not on this list, let me know in the comments. I am always looking for new tools to add to my toolbox.
-
-If you found this video helpful, please consider subscribing. It really helps the channel grow, and honestly, it would warm my heart. Thank you so much for watching, happy troubleshooting, and I will see you in the next video.
